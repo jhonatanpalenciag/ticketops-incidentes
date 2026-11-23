@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ticketops-incidentes",
+  "version": "1.0.0",
+  "description": "Reportes de incidentes y escalamiento para tickets operacionales de TicketOps",
+  "author": { "name": "Equipo TicketOps" },
+  "keywords": ["ticket", "incidente", "sla", "escalamiento", "reporte de incidente"],
+  "license": "MIT"
+}
